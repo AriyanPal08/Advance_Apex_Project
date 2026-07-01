@@ -1,0 +1,47 @@
+{
+    "before_rows": 350000,
+    "before_cols": 16,
+    "before_nulls": 711101,
+    "before_duplicates": 0,
+    "negative_resolution_days": 0,
+    "after_rows": 350000,
+    "after_cols": 20,
+    "after_nulls": 710247,
+    "after_duplicates": 0,
+    "top_products": {
+        "Credit Reporting Or Other Personal Consumer Reports": 201191,
+        "Credit Reporting, Credit Repair Services, Or Other Personal Consumer Reports": 90309,
+        "Debt Collection": 20432,
+        "Checking Or Savings Account": 10075,
+        "Credit Card": 7148,
+        "Credit Card Or Prepaid Card": 5436,
+        "Mortgage": 4966,
+        "Money Transfer, Virtual Currency, Or Money Service": 3206,
+        "Vehicle Loan Or Lease": 2472,
+        "Student Loan": 2374
+    },
+    "top_states": {
+        "FL": 47536,
+        "TX": 43717,
+        "CA": 34706,
+        "GA": 26931,
+        "NY": 22408,
+        "PA": 17097,
+        "IL": 15804,
+        "NJ": 12283,
+        "NC": 11565,
+        "MD": 9223,
+        "MI": 8359,
+        "OH": 7680,
+        "VA": 7565,
+        "LA": 7000,
+        "AL": 6806
+    },
+    "timely_rates": {
+        "Closed with explanation": 0.9942831288425199,
+        "Closed with monetary relief": 0.9864523536165327,
+        "Closed with non-monetary relief": 0.9995558178345485,
+        "No Response": 1.0,
+        "Untimely response": 0.0
+    }
+}
