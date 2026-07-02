@@ -1,0 +1,84 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# -----------------------------
+# Virtual Environments
+# -----------------------------
+venv/
+.venv/
+env/
+ENV/
+
+# -----------------------------
+# Jupyter Notebook
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# IDE Files
+# -----------------------------
+.vscode/
+.idea/
+
+# -----------------------------
+# Operating System Files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Python Environment Files
+# -----------------------------
+.python-version
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+
+# -----------------------------
+# Temporary Files
+# -----------------------------
+*.tmp
+*.bak
+
+# -----------------------------
+# Cache
+# -----------------------------
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# -----------------------------
+# Build Files
+# -----------------------------
+build/
+dist/
+*.egg-info/
+
+# -----------------------------
+# Generated Dataset (Large Files)
+# -----------------------------
+clean_compliance_data.csv
+cfpb_raw_2022_2024.csv
+complaints.csv
+
+# -----------------------------
+# Generated Images (Optional)
+# -----------------------------
+*.png
+
+# Uncomment below if charts are generated every run
+# figures/
+
+# -----------------------------
+# Generated Reports (Optional)
+# -----------------------------
+# *.docx
+# *.pdf
